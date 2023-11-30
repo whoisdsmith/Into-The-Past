@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artists/Hit The Reset.md",
+                "file": "Artists/Be The Light (MI).md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9de2067ae91404bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Into The Past.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Into The Past.md",
+                "file": "Artists/Be The Light (MI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Into The Past.md",
+                "file": "Artists/Be The Light (MI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Into The Past.md"
+                "file": "Artists/Be The Light (MI).md"
               }
             }
           },
@@ -175,44 +162,46 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "9de2067ae91404bc",
+  "active": "b5621a85b6944b49",
   "lastOpenFiles": [
-    "Artists/The Casket Diaries.md",
-    "Artists/Strangers Again.md",
-    "Artists/Stevie Marie.md",
-    "Artists/ProjectAudio.md",
-    "Artists/Project Naudia.md",
-    "Artists/Project Deja.md",
-    "Artists/Mulligan.md",
-    "Artists/Hit The Reset.md",
-    "Artists/Deja Norm'al.md",
+    "Dont Let The Darkness Take You/Where The Light Won't Reach You.md",
     "Artists/Be The Light (MI).md",
-    "Artists/Artists.md",
+    "Dont Let The Darkness Take You/Afterglow.md",
+    "Dont Let The Darkness Take You/Reignite Me.md",
+    "Into The Darkness.md",
+    "Dont Let The Darkness Take You/Replay.md",
+    "Dont Let The Darkness Take You/Signal Flares.md",
+    "Dont Let The Darkness Take You/Starting Over.md",
+    "Dont Let The Darkness Take You/Youre The Best.md",
+    "Dont Let The Darkness Take You/Alternate Ending.md",
+    "Premeditated (2).md",
+    "Premeditated.md",
+    "Premeditated (3).md",
+    "Dont Let The Darkness Take You/Growing Pains.md",
+    "Growing Pains.md",
+    "Dont Let The Darkness Take You/Neverending.md",
+    "Dont Let The Darkness Take You/Moments of Impact.md",
+    "Dont Let The Darkness Take You/Lightending.md",
+    "Dont Let The Darkness Take You/Dont Let The Darkness Take You.md",
+    "Dont Let The Darkness Take You/Disaster Magnet.md",
+    "Dont Let The Darkness Take You/Dayone.md",
+    "Dont Let The Darkness Take You/Before You Go.md",
+    "Lyrics/Notes_191027_003821.md",
+    "Lyrics/Reignite Me_190807_034327.md",
+    "Lyrics/Siren Call_191011_123043.md",
+    "Lyrics/Thank you _201101_171259.md",
+    "Lyrics",
+    "Dont Let The Darkness Take You",
     "BTL 2.jpg",
     "BTL 1.jpg",
     "BTL.jpg",
     "Images/BTL.jpg",
     "Images/dltdtywtlwry.jpg",
-    "Into The Past.md",
-    "Endings.md",
-    "Gravedigger Album.md",
-    "Singles.md",
     "Images/revenger.jpg",
     "Images/tcd.jpg",
-    "Into The Unknown of The Cosmos.md",
-    "Acoustic.md",
-    "Brothers In Arms.md",
-    "HOF.md",
-    "The Tides of Blackheart Bay (Demos).md",
     "Images/biacover.jpg",
-    "Brothers In Arms (Demos).md",
     "Images/Mulldem.jpg",
     "Images/cover.jpg",
-    "The Tides of Blackheart Bay.md",
-    "Den Adel (Demos).md",
-    "Grey VS Black.md",
-    "So Long Happiness.md",
-    "Releases.md",
     "Mulligan Site/Tour",
     "Saved Webpages/Articles/West Michigan Music2.html",
     "Saved Webpages/Articles/Interview with Mulligan.html",
@@ -220,8 +209,6 @@
     "Saved Webpages/Articles/Mulligan takes its last swing.html",
     "Saved Webpages/Articles/West Michigan Music - Content.html",
     "Saved Webpages/Articles/West Michigan Music.html",
-    "Saved Webpages/The Tides Of Blackheart Bay by Mulligan _ a‐tisket_ A multi‐source seeder for MusicBrainz.html",
-    "Mulligan Site",
-    "attachment"
+    "Saved Webpages/The Tides Of Blackheart Bay by Mulligan _ a‐tisket_ A multi‐source seeder for MusicBrainz.html"
   ]
 }

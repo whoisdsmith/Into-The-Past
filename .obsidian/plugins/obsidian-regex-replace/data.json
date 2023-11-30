@@ -1,6 +1,6 @@
 {
-  "findText": "Stream ",
-  "replaceText": "",
+  "findText": "]]",
+  "replaceText": "|Lryics]]",
   "useRegEx": false,
   "selOnly": false,
   "caseInsensitive": false,
