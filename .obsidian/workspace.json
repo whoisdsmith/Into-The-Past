@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artists/The Casket Diaries.md",
+                "file": "Into The Past.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artists/The Casket Diaries.md",
+                "file": "Into The Past.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artists/The Casket Diaries.md",
+                "file": "Into The Past.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artists/The Casket Diaries.md"
+                "file": "Into The Past.md"
               }
             }
           },
@@ -171,11 +171,13 @@
       "markdown-importer:Open format converter": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-regex-pipeline:Regex Rulesets": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
   "active": "9de2067ae91404bc",
   "lastOpenFiles": [
+    "Artists/The Casket Diaries.md",
     "Artists/Strangers Again.md",
     "Artists/Stevie Marie.md",
     "Artists/ProjectAudio.md",
@@ -189,7 +191,6 @@
     "BTL 2.jpg",
     "BTL 1.jpg",
     "BTL.jpg",
-    "Artists/The Casket Diaries.md",
     "Images/BTL.jpg",
     "Images/dltdtywtlwry.jpg",
     "Into The Past.md",

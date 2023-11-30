@@ -10,6 +10,7 @@ A taste of nostalgia and summer.
 
 ## Artists
 
+- [[Be The Light (MI)]]
 - [[Deja Norm'al]]
 - [[Hit The Reset]]
 - [[Mulligan]]
